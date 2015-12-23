@@ -1,0 +1,36 @@
+(ExpressProject ""
+  (ProjectVersion "19981106")
+  (ProjectType "PCB")
+  (Folder "Design Resources"
+    (Folder "Library")
+    (File ".\008_audioswitch.dsn"
+      (Type "Schematic Design"))
+    (BuildFileAddedOrDeleted "x")
+    (CompileFileAddedOrDeleted "x")
+    (NoModify))
+  (Folder "Outputs")
+  (Folder "Referenced Projects")
+  (PartMRUSelector)
+  (GlobalState
+    (FileView
+      (Path "Design Resources")
+      (Path "Design Resources" ".\008_audioswitch.dsn")
+      (Path "Design Resources" ".\008_audioswitch.dsn" "SCHEMATIC1")
+      (Select "Design Resources" ".\008_audioswitch.dsn" "SCHEMATIC1" "PAGE1"))
+    (HierarchyView)
+    (Doc
+      (Type "COrCapturePMDoc")
+      (Frame
+        (Placement "44 0 1 -1 -1 -8 -30 0 200 0 260"))
+      (Tab 0))
+    (Doc
+      (Type "COrSchematicDoc")
+      (Frame
+        (Placement "44 2 3 -1 -1 -8 -30 50 1126 50 459")
+        (Scroll "208 276")
+        (Zoom "200")
+        (Occurrence "/"))
+      (Path
+         "D:\GOOGLE DRIVE\HEXAXIS\FACTORY\008_œ≈–≈ Àﬁ◊¿“≈À‹ AUDIO  ”’Õﬂ\—’≈Ã¿\008_AUDIOSWITCH.DSN")
+      (Schematic "SCHEMATIC1")
+      (Page "PAGE1"))))
